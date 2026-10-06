@@ -1,0 +1,10 @@
+{
+  "description": "Offers a calm, premium mobile Bible reading and journaling experience linking personal reflections, prayers, and insights directly to Scripture passages.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
